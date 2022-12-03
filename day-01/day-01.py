@@ -4,7 +4,7 @@ def read_file(param):
 
 
 if __name__ == '__main__':
-    lines = read_file('01-input.txt')
+    lines = read_file('day-01/day-01-input.txt')
 
     current_elf_calories = 0
     top_1_calories = 0
